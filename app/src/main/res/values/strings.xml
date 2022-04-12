@@ -4,4 +4,5 @@
     <string name="hello_blank_fragment">Pick players Fragment</string>
     <string name="players">Players</string>
     <string name="game">Game</string>
+    <string name="play_button">Play button</string>
 </resources>
