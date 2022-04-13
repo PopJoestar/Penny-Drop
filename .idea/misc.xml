@@ -10,6 +10,7 @@
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.29739583333333336" />
         <entry key="app/src/main/res/layout/fragment_game.xml" value="0.1" />
         <entry key="app/src/main/res/layout/fragment_pick_players.xml" value="0.29739583333333336" />
+        <entry key="app/src/main/res/layout/player_list_item.xml" value="0.26268115942028986" />
         <entry key="app/src/main/res/menu/navigation.xml" value="0.29739583333333336" />
         <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.301" />
         <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.301" />
